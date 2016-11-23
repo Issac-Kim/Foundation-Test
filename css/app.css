@@ -1,8 +1,22 @@
 body{
     margin: 5%;
-    background-color: #336E7B;
+    background-image: url("../img/space.png");
+    background-size: ;
 }
 
-#accordian{
-    background-color: #f6f7eb;
+#header{
+    background-color: #fcfcfc;
+    border: 5px solid #fcfcfc;
+    border-radius: 10px;
+    padding: 13px;
+    text-align: center;
+    font-family: Consolas;
+    
+}
+
+.element{
+    background-color: #fcfcfc;
+    border: 5px solid #fcfcfc;
+    border-radius: 10px;
+    padding: 13px;
 }
